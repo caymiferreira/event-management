@@ -24,8 +24,8 @@ Sim, acreditamos que tudo que foi proposto foi realizado no projeto em questão.
 
 ## Integrantes
 
- |  [<img src="https://avatars.githubusercontent.com/caymiferreira?v=4" width=115><br><sub>Caymi Ferreira</sub>](https://github.com/caymiferreira) |  [<img src="https://avatars.githubusercontent.com/hivisson1002?v=4" width=115><br><sub>Hebert Ivisson</sub>](https://github.com/hivisson1002)  |  
-| :---: | :---: |
+ |  [<img src="https://avatars.githubusercontent.com/caymiferreira?v=4" width=115><br><sub>Caymi Ferreira</sub>](https://github.com/caymiferreira) |  [<img src="https://avatars.githubusercontent.com/hivisson1002?v=4" width=115><br><sub>Hebert Ivisson</sub>](https://github.com/hivisson1002)  |  [<img src="https://avatars.githubusercontent.com/gustavoataidez?v=4" width=115><br><sub>Luis Gustavo</sub>](https://github.com/gustavoataidez) |
+| :---: | :---: | :---: |
 
 ## Tecnologias utilizadas
 <img height="80" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
